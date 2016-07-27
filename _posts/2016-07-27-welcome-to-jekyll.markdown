@@ -1,6 +1,6 @@
 ---
 layout: post
-title: welcome to yarish's techpad
+title: welcome to yarish's techpad.md
 date: '2016-07-27 10:06:54 +0530'
 categories: jekyll update
 published: true
@@ -12,4 +12,4 @@ let me begin using Jekyll!.
 will it be easy to use ? 
 
 I am blogging using web-editor http://prose.io/#yarish/yarish.github.io/ 
-and site is hosted in http://github.com/yarish/yarish.github.io 
+and site is hosted in http://github.com/yarish/yarish.github.io
