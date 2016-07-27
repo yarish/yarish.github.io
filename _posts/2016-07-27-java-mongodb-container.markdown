@@ -31,5 +31,15 @@ htpp://IPaddress:80/getEntries
 **delete the records**  
 htpp://IPaddress:80/dropEntries   
 
+## mongodb basics 
+install mongo db in CentOS 7 for learning purpose  
+
+```bash
+$ tee /etc/yum.d/mongodb <<-'EOF'
+EOF
+$ sudo yum install mongodb-org
+```
+
+
 
 
