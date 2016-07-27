@@ -31,8 +31,10 @@ htpp://IPaddress:80/getEntries
 **delete the records**  
 htpp://IPaddress:80/dropEntries   
 
-## mongodb basics 
-###install 
+## mongodb basics  
+
+### install  
+
 install mongo db in CentOS 7 for learning purpose  
 
 ```bash
