@@ -3,7 +3,7 @@ layout: post
 title: welcome to yarish's techpad
 date: '2016-07-27 10:06:54 +0530'
 categories: jekyll update
-published: false
+published: true
 ---
 ## First post using Jekyll !
 
