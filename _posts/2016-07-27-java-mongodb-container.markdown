@@ -63,7 +63,7 @@ why are we doing this ?
 **problem :** how are we going to link these 2 containers ? 
 
 let us create data only container 
-```bash
+```
 $ docker create -v /data/db:/data/db/ --name mongo-data-container ubuntu
 ``` 
 
