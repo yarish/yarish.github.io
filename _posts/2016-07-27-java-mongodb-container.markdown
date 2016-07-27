@@ -51,8 +51,18 @@ $ sudo yum install mongodb-org
 ### how to use the mongodb 
 
 ## Dockerize MongoDB 
+We are going to creare 2 dockers for the mongodb.  
+one for to hold plain data  
+another one to run the mongod deamon process.  
+why are we doing this ?  
+* for easy portability 
+* multiple applications can use the same mongodb  
 
- $ docker create -v /data/db:/data/db/ --name mongo-data-container ubuntu
- 
+**problem :** how are we going to link these 2 containers ? 
+
+let us create data only container 
+```bash
+$ docker create -v /data/db:/data/db/ --name mongo-data-container ubuntu
+``` 
 
 
