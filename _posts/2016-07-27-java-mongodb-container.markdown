@@ -32,6 +32,7 @@ htpp://IPaddress:80/getEntries
 htpp://IPaddress:80/dropEntries   
 
 ## mongodb basics 
+###install 
 install mongo db in CentOS 7 for learning purpose  
 
 ```bash
@@ -47,6 +48,11 @@ EOF
 $ sudo yum install mongodb-org
 ```
 
+### how to use the mongodb 
 
+## Dockerize MongoDB 
+
+ $ docker create -v /data/db:/data/db/ --name mongo-data-container ubuntu
+ 
 
 
